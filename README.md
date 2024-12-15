@@ -49,17 +49,17 @@ Flutter Version: 3.24.5, Dart: Version 3.5.4
 # Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
-<img width="40%" alt="Image 1" src="https://github.com/user-attachments/assets/0c0f0ee9-8675-4815-94e7-fd7f8073a17c" />
-<img width="40%" alt="Image 2" src="https://github.com/user-attachments/assets/f731eec9-9391-4499-b58d-5c8e9fab3457" />
-<img width="40%" alt="Image 3" src="https://github.com/user-attachments/assets/d8d4314b-9b78-4000-9061-9a47e64f8d3f" />
-<img width="40%" alt="Image 4" src="https://github.com/user-attachments/assets/e7fe323f-73e4-4f20-b1d9-d733fb2b0a65" />
-<img width="40%" alt="Image 5" src="https://github.com/user-attachments/assets/98ca1b4e-7cc6-4f02-a893-467033d68b43" />
-<img width="40%" alt="Image 6" src="https://github.com/user-attachments/assets/5f784315-f79d-44dd-a5b5-9efe5459fa9c" />
-<img width="40%" alt="Image 7" src="https://github.com/user-attachments/assets/a3b8ab2c-af71-4277-ad07-82e617c096b3" />
-<img width="40%" alt="Image 8" src="https://github.com/user-attachments/assets/7c5da330-faeb-4869-b812-3fc8e47093f2" />
-<img width="40%" alt="Image 9" src="https://github.com/user-attachments/assets/37db79d6-dcfc-4c56-9be5-b454f70fdd69" />
-<img width="40%" alt="Image 10" src="https://github.com/user-attachments/assets/801832b0-87a3-461b-88cd-b5d043ad97d9" />
-<img width="40%" alt="Image 11" src="https://github.com/user-attachments/assets/744ee44d-f6d2-4c5a-afc4-ae19fdf0b4ed" />
-<img width="40%" alt="Image 12" src="https://github.com/user-attachments/assets/39e10c17-263f-493b-b460-4d1d81b20f38" />
-<img width="40%" alt="Image 13" src="https://github.com/user-attachments/assets/5ec1e1f4-2613-497f-9d23-f0bb3e095396" />
+<img width="448" alt="Screenshot 2024-12-15 at 2 09 13 PM" src="https://github.com/user-attachments/assets/981c12f2-8234-4d5b-a83c-deb2402ae4c6" />
+<img width="451" alt="Screenshot 2024-12-15 at 2 08 57 PM" src="https://github.com/user-attachments/assets/ce21968a-9e33-4bd4-95bd-02b4c5d0d55c" />
+<img width="439" alt="Screenshot 2024-12-15 at 2 08 37 PM" src="https://github.com/user-attachments/assets/ceb6b894-9f71-43cd-b94c-841b04b79586" />
+<img width="458" alt="Screenshot 2024-12-15 at 2 08 29 PM" src="https://github.com/user-attachments/assets/253119ce-5bf9-4457-9bdc-141bff182baa" />
+<img width="446" alt="Screenshot 2024-12-15 at 2 43 18 PM" src="https://github.com/user-attachments/assets/d2340523-2981-4b1b-b27f-e9e7985b71e1" />
+<img width="449" alt="Screenshot 2024-12-15 at 2 43 37 PM" src="https://github.com/user-attachments/assets/e0943752-78a5-4efe-b6be-4f99bbb3f0ce" />
+<img width="442" alt="Screenshot 2024-12-15 at 2 44 52 PM" src="https://github.com/user-attachments/assets/bd05a67f-78a6-4326-84fc-e17535e101b9" />
+<img width="434" alt="Screenshot 2024-12-15 at 2 45 04 PM" src="https://github.com/user-attachments/assets/cb4c8bb4-0425-484c-b700-18d4ed4e1e43" />
+<img width="468" alt="Screenshot 2024-12-15 at 2 08 11 PM" src="https://github.com/user-attachments/assets/cbef71bf-34b7-4e11-8e7d-d36a9912c25c" />
+<img width="460" alt="Screenshot 2024-12-15 at 2 08 19 PM" src="https://github.com/user-attachments/assets/b3c93704-562b-4c6f-b8a0-1c2099ad80b6" />
+<img width="465" alt="Screenshot 2024-12-15 at 2 09 05 PM" src="https://github.com/user-attachments/assets/30ca6442-90bf-4cbf-ae30-6058a979c9e0" />
+
+
 </div>
