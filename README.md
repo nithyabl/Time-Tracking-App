@@ -49,7 +49,6 @@ Flutter Version: 3.24.5, Dart: Version 3.5.4
 # Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
-<img width="448" alt="Screenshot 2024-12-15 at 2 09 13 PM" src="https://github.com/user-attachments/assets/981c12f2-8234-4d5b-a83c-deb2402ae4c6" />
 <img width="451" alt="Screenshot 2024-12-15 at 2 08 57 PM" src="https://github.com/user-attachments/assets/ce21968a-9e33-4bd4-95bd-02b4c5d0d55c" />
 <img width="439" alt="Screenshot 2024-12-15 at 2 08 37 PM" src="https://github.com/user-attachments/assets/ceb6b894-9f71-43cd-b94c-841b04b79586" />
 <img width="458" alt="Screenshot 2024-12-15 at 2 08 29 PM" src="https://github.com/user-attachments/assets/253119ce-5bf9-4457-9bdc-141bff182baa" />
@@ -60,6 +59,5 @@ Flutter Version: 3.24.5, Dart: Version 3.5.4
 <img width="468" alt="Screenshot 2024-12-15 at 2 08 11 PM" src="https://github.com/user-attachments/assets/cbef71bf-34b7-4e11-8e7d-d36a9912c25c" />
 <img width="460" alt="Screenshot 2024-12-15 at 2 08 19 PM" src="https://github.com/user-attachments/assets/b3c93704-562b-4c6f-b8a0-1c2099ad80b6" />
 <img width="465" alt="Screenshot 2024-12-15 at 2 09 05 PM" src="https://github.com/user-attachments/assets/30ca6442-90bf-4cbf-ae30-6058a979c9e0" />
-
-
+<img width="448" alt="Screenshot 2024-12-15 at 2 09 13 PM" src="https://github.com/user-attachments/assets/981c12f2-8234-4d5b-a83c-deb2402ae4c6" />
 </div>
