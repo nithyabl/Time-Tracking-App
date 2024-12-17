@@ -23,7 +23,11 @@ Flutter Version: 3.24.5, Dart: Version 3.5.4
    flutter pub get
    ```
 
-3. Add Your Token: Navigate to the file lib/core/constants/app_constants.dart and set your access token in the ACCESS_TOKEN field and project id in the PROJECT_ID filed
+3. **Run the following command to automate the process of generating boilerplate code.**:
+   ```bash
+   dart run build_runner build --delete-conflicting-outputs
+   ```
+4. Add Your Token: Navigate to the file lib/core/constants/app_constants.dart and set your access token in the ACCESS_TOKEN field and project id in the PROJECT_ID filed
 
    ```bash
    static const String ACCESS_TOKEN = "YOUR_VALUE_HERE";
@@ -33,7 +37,7 @@ Flutter Version: 3.24.5, Dart: Version 3.5.4
    static const String PROJECT_ID = "YOUR_VALUE_HERE";
    ```
 
-4. Run the Application:
+5. Run the Application:
    ```bash
    flutter run
    ```
