@@ -14,7 +14,7 @@ Flutter Version: 3.24.5, Dart: Version 3.5.4
 
    ```bash
    git clone <repository-url>
-   cd time_tracking_app
+   cd time-tracking-app
    ```
 
 2. Install Dependencies:
